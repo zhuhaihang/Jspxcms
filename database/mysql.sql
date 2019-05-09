@@ -1988,7 +1988,7 @@ INSERT INTO cms_friendlink (f_friendlink_id, f_friendlinktype_id, f_site_id, f_n
 INSERT INTO cms_friendlink_type (f_friendlinktype_id, f_site_id, f_name, f_number, f_seq) VALUES (1,1,'综合类','zonghe',0);
 INSERT INTO cms_friendlink_type (f_friendlinktype_id, f_site_id, f_name, f_number, f_seq) VALUES (3,1,'技术类','yule',1);
 INSERT INTO cms_global (f_global_id, f_protocol, f_port, f_context_path, f_version, f_uploads_publishpoint_id, f_captcha_errors) VALUES (1,'http',8080,NULL,'9.0.0',1,3);
-INSERT INTO cms_global_custom (f_global_id, f_key, f_value) VALUES (1,'poweredby',' - Powered by Jspxcms');
+INSERT INTO cms_global_custom (f_global_id, f_key, f_value) VALUES (1,'poweredby',' - Powered by grzx');
 INSERT INTO cms_global_custom (f_global_id, f_key, f_value) VALUES (1,'sys_mail_smtpHost','smtp.126.com');
 INSERT INTO cms_global_custom (f_global_id, f_key, f_value) VALUES (1,'sys_mail_smtpPassword','123');
 INSERT INTO cms_global_custom (f_global_id, f_key, f_value) VALUES (1,'sys_mail_smtpAuth','true');
