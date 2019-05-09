@@ -3775,7 +3775,7 @@ INSERT INTO cms_score_item (f_scoreitem_id, f_scoregroup_id, f_site_id, f_name, 
 INSERT INTO cms_score_item (f_scoreitem_id, f_scoregroup_id, f_site_id, f_name, f_score, f_icon, f_seq) VALUES (13,2,1,'五星',5,NULL,4);
 INSERT INTO cms_site (f_site_id, f_global_id, f_org_id, f_parent_id, f_name, f_number, f_full_name, f_no_picture, f_template_theme, f_domain, f_is_identify_domain, f_status, f_tree_number, f_tree_level, f_tree_max, f_is_static_home, f_html_publishpoint_id, f_mobile_theme, f_mobile_domain, f_mobile_publishpoint_id) VALUES (1,1,1,NULL,'Jspxcms演示主站','1','Jspxcms演示主站','/img/nopic.jpg','default','localhost','0',0,'0000',0,'0000','0',2,'m','localhost',2);
 INSERT INTO cms_site_custom (f_site_id, f_key, f_value) VALUES (1,'company','个人资讯有限公司');
-INSERT INTO cms_site_custom (f_site_id, f_key, f_value) VALUES (1,'icp','赣ICP备12001124号');
+INSERT INTO cms_site_custom (f_site_id, f_key, f_value) VALUES (1,'icp','赣ICP备18011420号-1');
 INSERT INTO cms_site_custom (f_site_id, f_key, f_value) VALUES (1,'sys_watermark_mode','1');
 INSERT INTO cms_site_custom (f_site_id, f_key, f_value) VALUES (1,'sys_watermark_alpha','50');
 INSERT INTO cms_site_custom (f_site_id, f_key, f_value) VALUES (1,'sys_watermark_padding_x','20');
