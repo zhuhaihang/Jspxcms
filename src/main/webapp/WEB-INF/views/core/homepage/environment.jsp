@@ -23,7 +23,7 @@
 		      		<td>${props['os.name']} ${props['os.version']}</td>
 				    </tr>
 			    	<tr>
-			        <th style="width:30%">JAVA运行环境</th>
+			        <th style="width:30%">JAVA运行环境22</th>
 		      		<td>${props['java.runtime.name']} ${props['java.runtime.version']}</td>
 				    </tr>
 			    	<tr>
